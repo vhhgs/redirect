@@ -1,0 +1,28 @@
+{
+    "label": "酷安",
+    "package": "com.coolapk.market",
+    "authors": [
+      ""
+    ],
+    "last_update": {
+      "timestamp": 1630560798,
+      "version_name": "11.2.7",
+      "version_code": 2107201
+    },
+    "recommendation": "@recommended",
+    "behaviors": [
+      "@abuse"
+    ],
+    "export_folders": {
+      "data": {
+        "0": {
+          "title": "应用胡乱创建的目录",
+          "source": "Tencent",
+          "target": "Shit/coolapk",
+          "call_media_scan": false,
+          "add_to_downloads": false,
+          "allow_child": false
+        }
+      }
+    }
+  }
