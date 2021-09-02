@@ -1,0 +1,36 @@
+{
+  "label": "微信",
+  "package": "com.tencent.mm",
+  "authors": [
+    "扬灵兮"
+  ],
+  "last_update": {
+    "timestamp": 1630561614,
+    "version_name": "8.0.9",
+    "version_code": 1920
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@saved_pictures",
+        "source": "tencent/MicroMsg/WeiXin",
+        "target": "Pictures/WeChat",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "1": {
+        "title": "@saved_files",
+        "source": "tencent/MicroMsg/Download",
+        "target": "Download/WeChat",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

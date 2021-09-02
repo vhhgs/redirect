@@ -1,28 +1,29 @@
 {
-    "package": "com.alicloud.databox",
-    "verified": false,
-    "authors": [
-      "vhhgx"
-    ],
-    "last_update": {
-      "timestamp": 1630374827,
-      "version_name": "2.2.1",
-      "version_code": 62
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-      "@abuse"
-    ],
-    "export_folders": {
-      "data": {
-        "saved_files_0": {
-          "title": "@saved_files",
-          "source": "AliYunPan",
-          "target": "Download/AliPan",
-          "call_media_scan": false,
-          "add_to_downloads": false,
-          "allow_child": false
-        }
+  "label": "阿里云盘",
+  "package": "com.alicloud.databox",
+  "verified": false,
+  "authors": [
+    "扬灵兮"
+  ],
+  "last_update": {
+    "timestamp": 1630374827,
+    "version_name": "2.2.1",
+    "version_code": 62
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "saved_files_0": {
+        "title": "@saved_files",
+        "source": "AliYunPan",
+        "target": "Download/AliPan",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
       }
     }
   }
+}
