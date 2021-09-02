@@ -16,7 +16,7 @@
     "export_folders": {
       "data": {
         "0": {
-          "title": "应用胡乱创建的目录",
+          "title": "@saved_files",
           "source": "Tencent",
           "target": "Shit/coolapk",
           "call_media_scan": false,
